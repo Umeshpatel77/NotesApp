@@ -1,6 +1,8 @@
-# Run the code
+# Follow below steps to start notes app
 
 ```
-npm install
-npm start
+
+1. npm install
+2. npm start
+
 ```
